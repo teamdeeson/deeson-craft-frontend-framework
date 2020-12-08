@@ -1,0 +1,41 @@
+{
+    "name": "deeson/deeson-frontend-framework",
+    "description": "Makes craft work with the Deeson Frontend framework",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "deeson frontend framework"
+    ],
+    "support": {
+        "docs": "???",
+        "issues": "???"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Berryman",
+            "homepage": "deeson.co.uk"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "deeson\\deesonfrontendframework\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Deeson Frontend Framework",
+        "handle": "deeson-frontend-framework",
+        "developer": "Peter Berryman",
+        "developerUrl": "deeson.co.uk",
+        "documentationUrl": "???",
+        "changelogUrl": "???",
+        "class": "deeson\\deesonfrontendframework\\DeesonFrontendFramework"
+    }
+}
