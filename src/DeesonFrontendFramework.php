@@ -80,7 +80,7 @@ class DeesonFrontendFramework extends Plugin
 
         Craft::info(
             Craft::t(
-                'deeson-frontend-framework',
+                'deeson-craft-frontend-framework',
                 '{name} plugin loaded',
                 ['name' => $this->name]
             ),

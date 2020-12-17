@@ -1,5 +1,5 @@
 {
-    "name": "deeson/deeson-frontend-framework",
+    "name": "teamdeeson/deeson-craft-frontend-framework",
     "description": "Makes craft work with the Deeson Frontend framework",
     "type": "craft-plugin",
     "version": "1.0.0",
@@ -31,7 +31,7 @@
     },
     "extra": {
         "name": "Deeson Frontend Framework",
-        "handle": "deeson-frontend-framework",
+        "handle": "ddeeson-craft-frontend-framework",
         "developer": "Peter Berryman",
         "developerUrl": "deeson.co.uk",
         "documentationUrl": "???",
